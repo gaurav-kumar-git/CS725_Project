@@ -132,10 +132,10 @@ Key insights from the project:
 
 ## Authors
 
-- **Rohit Agrawal**
-- **Daksh Goyal**
-- **Gaurav Kumar**
-- **Anishek Chaudhary**
+- **Rohit Agrawal(24M0744)**
+- **Daksh Goyal(24M0756)**
+- **Gaurav Kumar(24M0786)**
+- **Anishek Chaudhary(24M0787)**
 
 ## Future Work
 
